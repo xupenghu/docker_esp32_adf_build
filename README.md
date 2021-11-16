@@ -132,7 +132,7 @@
 当然你也可以直接从docker hub上获取该镜像直接使用
 
 ```shell
-docker push hubertxxu/esp32_adf_build:0.1
+docker pull hubertxxu/esp32_adf_build:0.1
 ```
 
 # 快速开始
